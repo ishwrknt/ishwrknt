@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @ishwrknt
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python and computational modeling 
-- 💞️ I’m looking to collaborate on ... new minimization technique 
-- 📫 How to reach me ... ishwrknt@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Here’s a simpler version of your bio:  
 
-<!---
-ishwrknt/ishwrknt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Hi, I’m @ishwrknt!**  
+- 🔹 **Interested in:** Python  
+- 🔹 **Learning:** Python & Computational Modeling  
+- 🔹 **Collaborating on:** New Minimization Techniques  
+- 📧 **Contact:** ishwrknt@gmail.com  
+
